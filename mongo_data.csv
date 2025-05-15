@@ -1,0 +1,11 @@
+teachSkillsubcategory,teachSkillcategory,learnSkill,_id,email,id,username,teachSkill,learnSkillsubcategory,password,learnSkillcategory
+Music,Art,Digital Marketing,682597eb2e7e38402de4cd2a,ausarkarshreyas@gmail.com,0,Shreyas,Guitar,SEO,Shreyas123@,Marketing
+Theatre,Acting,Trader,68259a0a2e7e38402de4cd2b,rajesh@gmail.com,1,Rajesh,Actor,Technical Analysis,Rajesh123@,Crypto Trading
+Music,Art,Piano,68259abb2e7e38402de4cd2c,smita123Gharat@gmail.com,2,Smi123,Drumset,Music,Smita12@,Art
+Unity,Software Development,Web Development,68259b682e7e38402de4cd2d,kashish@gmail.com,3,Kash12,Game Developer,Frontend,Kash123@,Website Development
+Frontend,Website Development,Drumset,68259f782e7e38402de4cd2e,mansi123@gmail.com,4,Masi88,Web Development,Music,Mansi111@,Art
+Social Media Management,Marketing,Video Editor,6825a0302e7e38402de4cd2f,kajal@gmail.com,5,Kajal123,Digital Marketing,Premiere Pro,Kajal1010@,Video Editing
+Capcut,Video Editing,Game Developer,6825a0e22e7e38402de4cd30,ronaldo@gmail.com,6,Ronaldo12,Product VideoGraphy,Unreal Engine,Ronald19@,Game Development
+Drone,Aerial Photography,Photography,6825a1892e7e38402de4cd31,kartik123@gmail.com,7,Kartik12,Photography,Camera Angles,Kartik123@,WildLife Photography
+Penetration Testing,Ethical Hacking,Digital Marketing,6825a2282e7e38402de4cd32,Guptavishal23@gmail.com,8,Vishal2233,Hacker,SEO,Vishal123@,Marketing
+Design,Graphic Design,Api Development,6825a3142e7e38402de4cd33,kamleshuttam23@gmail.com,9,Kamlesh23,Photoshop Canva,Backend,Kamlesh123@,Software Development
