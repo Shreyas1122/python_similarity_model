@@ -227,6 +227,8 @@ def data():
             for i in distances[0:len(data)]:
                 lists = products.loc[products['id'] == i[0], ['teachSkill','id','username','email']].values
                 print(lists[0])
+                if(lists[0][1] == idvalues):
+                    continue;
                 listofskills.append(lists[0].tolist())
             print(listofskills[1][2])
             return listofskills

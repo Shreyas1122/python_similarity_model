@@ -1,11 +1,11 @@
-teachSkillsubcategory,password,learnSkill,teachSkillcategory,email,username,learnSkillsubcategory,id,learnSkillcategory,_id,teachSkill
-Music,Shreyas123@,Digital Marketing,Art,ausarkarshreyas@gmail.com,Shreyas,SEO,0,Marketing,682597eb2e7e38402de4cd2a,Guitar
-Theatre,Rajesh123@,Trader,Acting,rajesh@gmail.com,Rajesh,Technical Analysis,1,Crypto Trading,68259a0a2e7e38402de4cd2b,Actor
-Music,Smita12@,Piano,Art,smita123Gharat@gmail.com,Smi123,Music,2,Art,68259abb2e7e38402de4cd2c,Drumset
-Unity,Kash123@,Web Development,Software Development,kashish@gmail.com,Kash12,Frontend,3,Website Development,68259b682e7e38402de4cd2d,Game Developer
-Frontend,Mansi111@,Drumset,Website Development,mansi123@gmail.com,Masi88,Music,4,Art,68259f782e7e38402de4cd2e,Web Development
-Social Media Management,Kajal1010@,Video Editor,Marketing,kajal@gmail.com,Kajal123,Premiere Pro,5,Video Editing,6825a0302e7e38402de4cd2f,Digital Marketing
-Capcut,Ronald19@,Game Developer,Video Editing,ronaldo@gmail.com,Ronaldo12,Unreal Engine,6,Game Development,6825a0e22e7e38402de4cd30,Product VideoGraphy
-Drone,Kartik123@,Photography,Aerial Photography,kartik123@gmail.com,Kartik12,Camera Angles,7,WildLife Photography,6825a1892e7e38402de4cd31,Photography
-Penetration Testing,Vishal123@,Digital Marketing,Ethical Hacking,Guptavishal23@gmail.com,Vishal2233,SEO,8,Marketing,6825a2282e7e38402de4cd32,Hacker
-Design,Kamlesh123@,Api Development,Graphic Design,kamleshuttam23@gmail.com,Kamlesh23,Backend,9,Software Development,6825a3142e7e38402de4cd33,Photoshop Canva
+id,password,username,learnSkillsubcategory,email,learnSkillcategory,learnSkill,teachSkillsubcategory,teachSkillcategory,teachSkill,_id
+0,Shreyas123@,Shreyas,SEO,ausarkarshreyas@gmail.com,Marketing,Digital Marketing,Music,Art,Guitar,682597eb2e7e38402de4cd2a
+1,Rajesh123@,Rajesh,Technical Analysis,rajesh@gmail.com,Crypto Trading,Trader,Theatre,Acting,Actor,68259a0a2e7e38402de4cd2b
+2,Smita12@,Smi123,Music,smita123Gharat@gmail.com,Art,Piano,Music,Art,Drumset,68259abb2e7e38402de4cd2c
+3,Kash123@,Kash12,Frontend,kashish@gmail.com,Website Development,Web Development,Unity,Software Development,Game Developer,68259b682e7e38402de4cd2d
+4,Mansi111@,Masi88,Music,mansi123@gmail.com,Art,Drumset,Frontend,Website Development,Web Development,68259f782e7e38402de4cd2e
+5,Kajal1010@,Kajal123,Premiere Pro,kajal@gmail.com,Video Editing,Video Editor,Social Media Management,Marketing,Digital Marketing,6825a0302e7e38402de4cd2f
+6,Ronald19@,Ronaldo12,Unreal Engine,ronaldo@gmail.com,Game Development,Game Developer,Capcut,Video Editing,Product VideoGraphy,6825a0e22e7e38402de4cd30
+7,Kartik123@,Kartik12,Camera Angles,kartik123@gmail.com,WildLife Photography,Photography,Drone,Aerial Photography,Photography,6825a1892e7e38402de4cd31
+8,Vishal123@,Vishal2233,SEO,Guptavishal23@gmail.com,Marketing,Digital Marketing,Penetration Testing,Ethical Hacking,Hacker,6825a2282e7e38402de4cd32
+9,Kamlesh123@,Kamlesh23,Backend,kamleshuttam23@gmail.com,Software Development,Api Development,Design,Graphic Design,Photoshop Canva,6825a3142e7e38402de4cd33
