@@ -111,7 +111,9 @@ def shreyas():
 @app.route("/data",methods=['GET', 'POST'])
 def data():
     print("hello")
-    if request.method == 'GET':
+    if request.method == 'POST':
+        data = request.get_json()
+        idvalues=data.get("id")
         datas=[]
         data=list(collection.find())
         for i in data:
@@ -229,7 +231,7 @@ def data():
             print(listofskills[1][2])
             return listofskills
 
-        return jsonify({"csv file created":recommendingskill(0)})
+        return jsonify({"csv file created":recommendingskill(idvalues)})
     
 if __name__ == '__main__':
     app.run(debug=True, threaded=False)
