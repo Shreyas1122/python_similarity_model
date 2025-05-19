@@ -37,7 +37,7 @@ For example:
 
 ## 🖼️ Project Preview
 
-### 🔁 Recommendation Flow
+### 🔁 Database example
 
 ![Recommendation Flow](images/recommendation-flow.png)
 
